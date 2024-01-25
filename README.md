@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## sistema de ventas e invantario - Laravel 7 && Vue 
+## sistema de ventas e invantario de farmacias - Laravel 7 && Vue 
 
 
 - **preview**
